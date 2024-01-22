@@ -6,7 +6,7 @@ export const characters = [
     img1: "https://www.wwe.com/f/styles/wwe_1_1_460/public/all/2023/06/Seth_Rollins_PROFILE--fb92833e38aeeca6dd9257428ad2b6cb.png",
     homeworld: "Street racing",
     abilities: [
-      "Colby Daniel Lopez (born May 28, 1986) is an American professional wrestler. He is currently signed to WWE, where he performs on the Raw brand under the ring name Seth "Freakin" Rollins. ",
+      "Colby Daniel Lopez (born May 28, 1986) is an American professional wrestler. He is currently signed to WWE, where he performs on the Raw brand under the ring name Seth Freakin Rollins. ",
       "Powered armor suit",
       "Superhuman strength",
     ],
